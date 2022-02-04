@@ -49,7 +49,7 @@
         </a>
    &emsp;
         <a href="https://reactjs.org/docs/introducing-jsx.html/">
-    <img alt="ReactJs" src="https://img.shields.io/badge/ReactJs%20-%233880ff.svg?style=flat&logo=ionic&logoColor=white"/>
+    <img alt="ReactJs" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white"/>
           </a>
 </p>
 
